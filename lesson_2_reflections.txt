@@ -1,0 +1,6 @@
+Reflection Question 1: What happens when you initialize a repository? Why do you need to do it?
+It creates a repository with all the files in your current working directory. You must do it to add the .git file to allow commits and to start tracking version control
+Reflection Question 2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A working directory is the directory you are working in at a given time. A repository can have multiple directories.
+A repository is all the files and directories that are part of your project.
+A staging area lets you create commits that exclude parts of your current repository. You can use this if you believe you have done enough work without committing to warrant multiple commits to keep your versions logically separate.
