@@ -1,0 +1,14 @@
+I have reviewed the command prompts in GitBash. I will use this as my primary command line for now to get familiar with it. 
+Reflection Question 1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I was able to view a handful of lines that I knew had changed instead of every single line
+Reflection Question 2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You know what work has already been done, what bugs have already been fixed, what already is built into the program
+Reflection Question 3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pro: Commits are done logically when the right amount of work has been done.
+Con: The potential to lose work if you forget to commit or have an unexpected system error
+Reflection Question 4: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is made specifically for programming, where multiple files ofter interact with eachother, whereas most other file sharing systems are for sharing individual documents
+Reflection Question 5: How can you use the commands git log and git diff to view the history of files?
+git log shows the version serial numbers with user comments, git diff shows the actual changes between versions
+Reflection Question 5: How might using version control make you more confident to make changes that could break something?
+You know you can go back to a version that worked if you break something
